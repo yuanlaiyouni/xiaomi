@@ -1,0 +1,21 @@
+*{
+	margin: 0;
+	/* 0可以不用加像素值（任何单位） */
+	/* body: =8px */
+	padding: 0;
+	/* 列表标签 */
+	list-style: none;
+	/* 列表标签样式，none的意思是空 */
+	text-decoration: none;
+	/* a标签身上的默认样式，下划线 */
+	font-style: normal;
+	/* 自定义字体样式，粗体还是斜体 */
+	font-weight: normal;
+	-webkit-user-select:none ;	
+	/* 用户选中不了页面 */
+	user-select:none ;
+}
+img{
+	width: 100%;
+	height: 100%;
+}
